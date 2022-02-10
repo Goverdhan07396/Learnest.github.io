@@ -1,0 +1,45 @@
+.header {
+  padding: 7% 15%;
+  color: white;
+}
+#navbar {
+  background-image: url(https://i.pinimg.com/originals/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  color: white;
+}
+#grow {
+  background-image: url(https://i.pinimg.com/originals/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg);
+  color: white;
+  padding: 5% 10%;
+}
+#cardI {
+  background-color: #d4caca;
+}
+.tag {
+  margin-right: 80rem;
+}
+#img {
+  background-color: #b3acac;
+}
+.btn1 {
+  margin-left: 80rem;
+}
+#placed {
+  padding: 7% 15%;
+  background-color: white;
+}
+.tagImg {
+  margin-bottom: 2rem;
+}
+.card {
+  margin-top: 5rem;
+}
+#cardI {
+  padding: 5% 10%;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+#last {
+  padding: 7% 15%;
+}
